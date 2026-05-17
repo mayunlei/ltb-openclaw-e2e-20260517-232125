@@ -1,1 +1,3 @@
-# ltb-openclaw-e2e-20260517-232125
+# LetTokenBurn OpenClaw E2E Fixture
+
+This repository is used for end-to-end automated worker verification.
